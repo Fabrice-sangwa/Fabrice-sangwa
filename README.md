@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Developing a Django-based inventory and sales management system for a tech shop 🖥️🛒, and building intelligent AI models for automation and prediction 🤖📊.<br><br>🤝 I’m looking to collaborate on:<br>Open source or freelance projects involving Django 🌐, React ⚛️, AI 🧠, or IoT technologies 🔌 — especially those that make data useful and actionable 💡.<br><br>🧠 I’m currently learning:<br>Cutting-edge machine learning techniques 🧬, deploying apps with Docker 🐳, setting up CI/CD workflows 🔁, and handling real-time data streams 📡.<br><br>💬 Ask me about:<br>Data science 📊, data cleaning 🧹, automation scripts in Python 🐍, Django REST APIs 🚀, smart systems with Arduino & Raspberry Pi 🔧📟.<br><br>🌱 I’m passionate about:<br>Solving real-world problems using code 💻, creating tools that matter 🔍, and blending digital intelligence with physical systems ⚙️🏠.<br><br>⚡ Fun fact:<br>I once built a full smart home prototype using Raspberry Pi 🛠️ — complete with motion sensors, automated lights 💡, and Python-based control scripts 🔄.
+# 💫 About Me
+
+I’m a developer passionate about Python, Django, AI, and IoT. I enjoy building practical tools that solve real-world problems.
+
+🔭 **Currently working on:** An inventory and sales management system for a tech shop, and AI models for automation and prediction.
+
+🤝 **Open to collaborating on:** Open-source and freelance projects involving Django, React, AI, or IoT.
+
+🌱 **Currently learning:** Machine learning, Docker, CI/CD, and real-time data processing.
+
+💬 **Ask me about:** Data science, Python automation, Django REST APIs, Arduino, and Raspberry Pi.
+
+⚡ **Fun fact:** I built a smart home prototype with Raspberry Pi, motion sensors, and automated lights!
 
 
 ## 🌐 Socials:
